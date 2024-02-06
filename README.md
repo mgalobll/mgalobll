@@ -10,6 +10,16 @@ I hope to gain more knowledge and experience in the field of computer science ou
 
 [LinkedIn](https://www.linkedin.com/in/luka-mgaloblishvili/) | [Email](mailto:mgalobll@union.edu)
 
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
 ## 💡 Projects
 
 - [**skedy**](https://github.com/skeddyapp/app): Researched and developed the UI of a group-scheduling mobile app as part of a large-scale group project for a UI class.
