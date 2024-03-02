@@ -8,10 +8,10 @@ I hope to gain more knowledge and experience in the field of computer science ou
 
 ## 📫 Contact Me
 
-<!--
-[LinkedIn](https://www.linkedin.com/in/luka-mgaloblishvili/) | [Email](mailto:mgalobll@union.edu)
--->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-mgaloblishvili/) &nbsp;&nbsp;|&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mgalobll@union.edu)
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-mgaloblishvili/) &nbsp;&nbsp;|&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mgalobll@union.edu)
+</p>
+
 
 ## 🧰 Languages and Tools
 
