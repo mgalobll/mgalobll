@@ -8,25 +8,13 @@ I hope to gain more knowledge and experience in the field of computer science ou
 
 ## 📫 Contact Me
 
+<!--
 [LinkedIn](https://www.linkedin.com/in/luka-mgaloblishvili/) | [Email](mailto:mgalobll@union.edu)
+-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-mgaloblishvili/) &nbsp;&nbsp;|&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mgalobll@union.edu)
+
 
 ## 🧰 Languages and Tools
-
-<!-- 
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
--->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -55,6 +43,10 @@ I hope to gain more knowledge and experience in the field of computer science ou
 - [**RoadRunner**](https://github.com/Union-College-Robotics-Crew/RoadRunner_Winter2023): Have worked on the "lane assistance" and maze-solving algorithms of the Union College Robotics Crew robot. Currently maintaining and updating the code as Co-President and Lead Programmer (in Python).
 - [**AI Projects**](https://github.com/mgalobll/csc-320): Worked on several projects (in Python) in my AI class that ranged from uninformed/informed search, adverserial search, local search and genetic algorithms, artificial neural networks, reinforcement learning...
 - [**Databases Project**](https://github.com/mgalobll/csc-340-project): Designed a relational database for a central mail service and implemented it in MySQL for a final group project in my Databases (CSC340) class.
+
+**Note:**
+Due to privacy concerns and the nature of some of these projects being associated with academic courses, they are stored in private repositories. If you're interested in accessing any of these projects, please send an email to [mgalobll@union.edu](mailto:mgalobll@union.edu) with the subject line "GitHub Access Request". In your email, please mention the specific project(s) you're interested in, and I'll be happy to grant you access accordingly. Thank you for your understanding.
+
 
 ## 💻 Open Source Work Stats
 
