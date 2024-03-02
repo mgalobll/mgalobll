@@ -32,7 +32,7 @@ I hope to gain more knowledge and experience in the field of computer science ou
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
   <img src="https://icon-library.com/images/html-icon/html-icon-28.jpg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://icon-library.com/images/css-icon/css-icon-28.jpg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css-37-226088.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
