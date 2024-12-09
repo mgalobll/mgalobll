@@ -1,10 +1,17 @@
 ## 👋 About Me
 
-I'm Luka Mgaloblishvili from Tbilisi, Georgia. I'm currently a senior at Union College (NY), pursuing my bachelors degree in Computer Science. 
+👋 Hi, I’m an Integration Specialist and aspiring Software Engineer/Developer, with a degree in Computer Science (Summa Cum Laude) from Union College. I’m passionate about software development, machine learning, robotics, and cybersecurity.
 
-Through varied and intensive coursework at Union, I have covered core computer science courses while also exploring several different areas and working on several large-scale projects, utilizing a variety of languages and frameworks like Python, Java, Flutter...
+💻 My expertise spans Python, Java, C, and JavaScript, along with frameworks like Flutter, Flask, Vue.js, and ROS.
 
-I hope to gain more knowledge and experience in the field of computer science outside of Union as well, more specifically, in the areas of Software Development, Artificial Intelligence, Robotics, and Cybersecurity.
+🚀 I’ve contributed to impactful projects, including:
+
+Developing a group-scheduling mobile app with Flutter and Firebase.
+Building a web app adaptation of the mobile game KAMI using JavaFX and MVVM architecture.
+Leading my robotics team to 1st place in the IEEE Micromouse Competition.
+📊 I’m driven by creating efficient solutions, such as tripling data visualizations for robotics research and automating workflows to enhance system efficiency.
+
+Explore my repositories to see how I bring ideas to life with clean code and innovative designs!
 
 ## 📫 Contact Me
 
@@ -13,7 +20,7 @@ I hope to gain more knowledge and experience in the field of computer science ou
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:mgalobll@union.edu">
+  <a href="mailto:lukamga@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
