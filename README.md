@@ -1,22 +1,17 @@
 ## 👋 About Me
 
-I’m an **Integration Specialist** and aspiring **Software Engineer/Developer**, with a degree in **Computer Science** (Summa Cum Laude) from Union College. I’m passionate about **software development**, **machine learning**, **robotics**, and **cybersecurity**.  
+Hi, I’m an **Integration Specialist** and aspiring **Software Engineer/Developer**, with a degree in **Computer Science** (Summa Cum Laude) from Union College. I’m passionate about **software development**, **machine learning**, **robotics**, and **cybersecurity**.
 
-## 🛠 Skills  
-- **Programming Languages:** Python, Java, C, JavaScript, SQL, Bash, HTML, CSS, Dart, R  
-- **Frameworks & Tools:** Flutter, Flask, Vue.js, ROS, Angular, Node.js, JavaFX, OpenCV  
-- **Technologies:** Linux/Unix, Git, Azure, Matplotlib, NumPy  
+💻 My expertise spans **Python**, **Java**, **C**, and **JavaScript**, along with frameworks like **Flutter**, **Flask**, **Vue.js**, and **ROS**.
 
-## 🚀 Projects  
-- **Group-Scheduling Mobile App:** Developed using Flutter and Firebase as part of a term-long project.  
-- **KAMI Web App:** Adapted the mobile game KAMI into a JavaFX web app, using MVVM architecture and software design patterns like Factory, Memento, and Singleton.  
-- **IEEE Micromouse Competition:** Led my team to 1st place by developing a flood-fill maze-solving algorithm and implementing a PID controller.  
+🚀 I’ve contributed to impactful projects, including:
+- Developing a group-scheduling mobile app with Flutter and Firebase.
+- Building a web app adaptation of the mobile game KAMI using JavaFX and MVVM architecture.
+- Leading my robotics team to 1st place in the IEEE Micromouse Competition.
 
-## 📊 Achievements  
-- Tripled data visualizations for robotics research by writing Python scripts using Matplotlib and NumPy.  
-- Automated workflows to boost integration efficiency, improving SLA compliance from 30% to 60%.  
+📊 I’m driven by creating efficient solutions, such as tripling data visualizations for robotics research and automating workflows to enhance system efficiency.
 
-Feel free to explore my repositories and see how I bring ideas to life with clean code and innovative designs!
+Explore my repositories to see how I bring ideas to life with clean code and innovative designs!
 
 
 ## 📫 Contact Me
